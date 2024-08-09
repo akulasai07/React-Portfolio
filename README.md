@@ -49,7 +49,7 @@ To get a local copy of the project up and running, follow these steps:
 
 ## Usage
 
-After installing the dependencies, you can start the development server to run the project locally.
+   After installing the dependencies, you can start the development server to run the project locally.
 
 1.**Start the development server:**
 
@@ -57,20 +57,20 @@ After installing the dependencies, you can start the development server to run t
 
 2.**Open in browser:**
 
-Once the development server is running, open your browser and navigate to:
+   Once the development server is running, open your browser and navigate to:
 
-The portfolio should now be running locally on your machine. You can start editing the files in the src directory to see your changes live.
+   The portfolio should now be running locally on your machine. You can start editing the files in the src directory to see your changes live.
 
 ## Building for Production
 
-To create an optimized production build, you can run the following command:
+   To create an optimized production build, you can run the following command:
 
 
   npm run build
 
 ## Deploying the Build
 
-Once you have the production build ready, you can deploy it to any static hosting service like GitHub Pages, Netlify, Vercel, or AWS S3. Simply upload the contents of the dist/ folder to your hosting service.
+   Once you have the production build ready, you can deploy it to any static hosting service like GitHub Pages, Netlify, Vercel, or AWS S3. Simply upload the contents of the dist/ folder to your hosting service.
 
 ## Technologies Used
 
