@@ -1,0 +1,38 @@
+[
+  {
+    "title": "4S Navigation tool extension in Visual Studio Code",
+    "imageSrc": "projects/4s.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Java", "JavaScript", "TypeScript", "VS Code"],
+    "source": "https://github.com/akulasai07/4S"
+  },
+  {
+    "title": "Learn To Adapt",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Python", "Jupyter Notebook", "Bash", "BERT Model" ,"GZSL"],
+    "source": "https://github.com/akulasai07/Learn-To-Adapt"
+  },
+  {
+    "title": "AWS-Based Web Development and Deployment",
+    "imageSrc": "projects/awsproj.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Ajax", "JavaScript", "S3" , "EC2"],
+    "source": "https://github.com/akulasai07/SWE642"
+  },
+  
+  {
+    "title": "Prospective Student Survey Application Development",
+    "imageSrc": "projects/survey.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["TypeScript", "Java", "Angular", "Spring Boot", "SQL"],
+    "source": "https://github.com/akulasai07/SWE-642"
+  },
+  {
+    "title": "Object Information Retrieval in Real-time",
+    "imageSrc": "projects/object.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Python", "CNN", "TensorFlow Lite","COCO model"],
+    "source": "https://github.com/akulasai07/Object-Information-Retrieval-in-Real-time"
+  }
+]

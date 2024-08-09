@@ -1,0 +1,36 @@
+[
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "organization": "Amazon Web Services",
+      "dateReceived": "April 2023",
+      "description": "Foundational understanding of AWS Cloud concepts, core services, security, pricing, and support.",
+      "imageSrc": "certification/aws.png",
+      "link": "https://www.credly.com/badges/7796ec80-3c4a-4462-9cbe-2da5aa11ec6c/linked_in_profile"
+    },
+    {
+      "name": "Introduction to Machine Learning",
+      "organization": "NPTEL",
+      "dateReceived": "April 2020",
+      "description": "Machine Learning fundamentals.",
+      "imageSrc": "certification/nptel.png",
+      "link": "https://www.coursera.org/professional-certificates/google-ux-design"
+    },
+    
+      {
+        "name": "The Joy Of Computing Using Python",
+        "organization": "NPTEL",
+        "dateReceived": "October 2019",
+        "description": "Elite + Silver Certified with a consolidated score of 84%.",
+        "imageSrc": "certification/nptel.png",
+        "link": "https://www.coursera.org/professional-certificates/google-ux-design"
+      },
+      {
+        "name": "Data Base Management System",
+        "organization": "NPTEL",
+        "dateReceived": "April 2019",
+        "description": "Elite + Silver Certified with a consolidated score of 78%.",
+        "imageSrc": "certification/nptel.png",
+        "link": "https://www.coursera.org/professional-certificates/google-ux-design"
+      }
+    
+  ]

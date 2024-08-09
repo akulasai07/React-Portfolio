@@ -1,0 +1,98 @@
+.certificationContainer {
+    position: relative;
+    background-color: rgba(12, 12, 12, 0.6); 
+    border-radius: 15px;
+    padding: 30px;
+    margin: 79px 5%;
+    z-index: 1;
+    color: var(--color-text);
+}
+
+.certificationTitle {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.certificationGrid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.certificationCard {
+    width: 300px;
+    height: 400px;
+    perspective: 1000px;
+}
+
+.certificationCardInner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+    border-radius: 10px;
+}
+
+.certificationCard:hover .certificationCardInner {
+    transform: rotateY(180deg);
+}
+
+.certificationCardFront, .certificationCardBack {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 10px;
+}
+
+.certificationCardFront {
+    background: rgba(173, 216, 230, 0.9); /* Light blue with slight transparency */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.certificationCardBack {
+    background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);/* Light background for better readability */
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+
+.certificationCardBack h3 {
+    margin: 0;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--color-text);
+}
+
+.certificationCardBack p {
+    margin: 0.5rem 0;
+    color:var(--color-text);
+    font-size: 0.9rem; /* Smaller font size */
+    font-weight: 500; /* Medium weight */
+}
+
+.certificationCardBack a {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.certificationCardBack a:hover {
+    background-color: #45a049;
+}

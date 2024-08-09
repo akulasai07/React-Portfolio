@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Assistant Systems Engineer",
+    "organisation": "Tata Consultancy Services",
+    "startDate": "September 2021",
+    "endDate": "November 2022",
+    "experiences": ["Led the migration of an ISP application to Google Cloud, utilizing the Spring Framework and RESTful Web Services to develop and manage scalable APIs and Microservices.","Developed and managed REST APIs and Microservices using Apigee on Google Cloud, ensuring seamless integration and performance across the application.", "Enhanced software performance by modifying existing code to correct errors, upgrade interfaces, and optimize overall system efficiency."],
+    "imageSrc": "experience/tcs.png"
+  },
+  {
+    "role": "Associate Software Engineer",
+    "organisation": "Syoft",
+    "startDate": "September 2019",
+    "endDate": "August 2021",
+    "experiences": [" Utilized React.js to create dynamic, user-friendly interfaces, enhancing user experience and satisfaction. Architected and implemented a microservices-based approach to ensure modularity and independent scalability.", "Implemented back-end services using the Spring framework, ensuring robust and scalable server-side logic","Deployed applications on AWS, utilizing services such as EC2, Lambda, S3 and configured and managed AWS RDS and DynamoDB, providing secure and efficient data storage solutions."],
+    "imageSrc": "experience/syoft.png"
+  },
+  {
+    "role": "Full Stack Engineer Intern",
+    "organisation": "Ogive Technologies",
+    "startDate": "June 2019",
+    "endDate": "August 2019",
+    "experiences": [
+      " Developed and implemented an application that automated the generation of quotations and invoices for products/services.",
+      "Utilized OrderId input to retrieve and display comprehensive product/service details, streamlining the information retrieval process."
+    ],
+    "imageSrc": "experience/ogive.png"
+  }
+]
