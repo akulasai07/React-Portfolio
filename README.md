@@ -9,11 +9,8 @@ This repository contains the source code for my professional portfolio website, 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Building for Production](#building-for-production)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Features
 
